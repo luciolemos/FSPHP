@@ -9,7 +9,7 @@
 </head>
 <body>
 <?php
-echo"Olá blog!";
+echo"Olá blog em FSPHP!";
 ?>
 </body>
 </html>
